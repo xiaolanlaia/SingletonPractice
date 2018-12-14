@@ -1,8 +1,9 @@
-package com.example.singletonpractice;
+package com.example.singletonpractice.ehan;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.example.singletonpractice.R;
 import com.example.singletonpractice.ehan.CEO;
 import com.example.singletonpractice.ehan.Company;
 import com.example.singletonpractice.ehan.Staff;
